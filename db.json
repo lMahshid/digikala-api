@@ -1,0 +1,1362 @@
+{
+"popularSearches": [
+    {"id": 1, 
+    "name": "لیپ گلاس"
+    },
+    {"id":2,
+    "name": "چراغ مطالعه"
+    },
+    {"id":3,
+    "name":"ژل ابرو"
+    },
+    {"id":4,
+    "name": "تلوزیون"
+    },
+    {"id":5,
+    "name": "ادکلن"
+}
+] ,
+"navbar":[
+  {
+    "id":1 ,
+    "img":"/assets/images/Header/shegeft.svg",
+    "name" :"شگفت انگیزها"
+  },
+  {
+    "id":2,
+    "img": "/assets/images/Header/basket.png",
+    "name":"سوپرمارکت"
+  },
+    {
+    "id":3,
+    "img":"/assets/images/Header/gold.png",
+    "name":"طلای دیجیتال"
+  },
+    {
+    "id":4,
+    "img":"/assets/images/Header/fire.svg",
+    "name":"پرفروش‌ترین‌ها"
+  }
+],
+"SubmenuTitle":[
+  {
+    "id":1 , 
+    "name": "موبایل",
+    "img" :"/assets/images/Header/submenu/mobile.svg"
+  },
+   {
+    "id":2 , 
+    "name": "لپتاپ",
+    "img" :"/assets/images/Header/submenu/laptop.svg"
+  },
+   {
+    "id":3 , 
+    "name": "کالای دیجیتال",
+     "img" :"/assets/images/Header/submenu/desktop.svg"
+  },
+   {
+    "id":4 , 
+    "name": "خانه و آشپزخانه",
+   "img" :"/assets/images/Header/submenu/sofa.svg"
+  },
+   {
+    "id":5 , 
+    "name": "لوازم خانگی برقی",
+    "img" :"/assets/images/Header/submenu/fridge.svg"
+  },
+   {
+    "id":6 , 
+    "name": "آرایشی بهداشتی",
+    "img" :"/assets/images/Header/submenu/heart.svg"
+  },
+   {
+    "id":7 , 
+    "name": "مد و پوشاک",
+    "img" :"/assets/images/Header/submenu/shirt.svg"
+  },
+   {
+    "id":8 , 
+    "name": "طلا و نقره",
+    "img" :"/assets/images/Header/submenu/necklace.svg"
+  },
+   {
+    "id":9 , 
+    "name": "خودرو و موتورسیکلت",
+    "img" :"/assets/images/Header/submenu/car.svg"
+  },
+   {
+    "id":10 , 
+    "name": "سلامت و پزشکی",
+    "img" :"/assets/images/Header/submenu/medicine.svg"
+  },
+   {
+    "id":11 , 
+    "name": "ابزارآلات و تجهیزات",
+    "img" :"/assets/images/Header/submenu/wrench.svg"
+  },
+   {
+    "id":12 , 
+    "name": "کتاب و هنر",
+    "img" :"/assets/images/Header/submenu/ruler.svg"
+  },
+   {
+    "id":13 , 
+    "name": "ورزش و سفر",
+    "img" :"/assets/images/Header/submenu/tent.svg"
+  },
+   {
+    "id":14 , 
+    "name": "کارت هدیه و گیفت کارت",
+    "img" :"/assets/images/Header/submenu/giftcard.svg"
+  },
+   {
+    "id":15 , 
+    "name": "سوپرمارکت آنلاین",
+    "img" :"/assets/images/Header/submenu/groceries.svg"
+  },
+   {
+    "id":16 , 
+    "name": "اسباب بازی ، کودک و نوزاد",
+    "img" :"/assets/images/Header/submenu/baby.svg"
+  },
+   {
+    "id":17 , 
+    "name": "محصولات بومی و محلی",
+    "img" :"/assets/images/Header/submenu/leaf.svg"
+  },
+   {
+    "id":18 , 
+    "name": "پت شاپ",
+    "img" :"/assets/images/Header/submenu/pet.svg"
+  }
+  
+],
+"SubmenuInfo":[
+  {
+    "id":1,
+    "col" : 1,
+    "title":"گوشی های اپل",
+    "name":["آیفون ۱۶","آیفون ۱۷"]
+  },
+   {
+    "id":2,
+    "col" : 1,
+    "title":"برندهای مختلف گوشی موبایل",
+    "name":["گوشی سامسونگ","گوشی شیائومی","گوشی نوکیا","گوشی ریلمی","گوشی سایفر","گوشی آنر","گوشی ناتینگ فون", "گوشی وکال" , "گوشی موتورولا" , "گوشی ردتون" ,"گوشی تی سی ال","گوشی هواوی" ,"گوشی داریا","گوشی گوگل پیکسل" ,"گوشی جی ال ایکس" ,"گوشی آلکاتل","گوشی وان پلاس","گوشی های جنرال لوکس" ,"گوشی موبایل دوجی","گوشی HMD" ,"گوشی پوکو" ,"گوشی TCH"]
+  },
+   {
+    "id":3,
+    "col" : 1,
+    "title":"گوشی براساس قیمت",
+    "name":["گوشی ارزان","گوشی موبایل قسطی","گوشی تا ۲ میلیون تومان","گوشی تا ۵ میلیون تومان","گوشی تا ۷ میلیون تومان","گوشی تا ۱۰ میلیون تومان","گوشی تا ۱۲ میلیون تومان","گوشی تا ۱۵ میلیون تومان","گوشی تا ۲۰ میلیون تومان","گوشی تا ۲۵ میلیون تومان","گوشی تا ۳۰ میلیون تومان","گوشی تا ۴۰ میلیون تومان","گوشی تا ۵۰ میلیون تومان","گوشی تا ۷۰ میلیون تومان"]
+  },
+   {
+    "id":4,
+    "col" : 2,
+    "title":"گوشی براساس عملکرد",
+    "name":["گوشی گیمینگ" ,"گوشی 5G" ,"گوشی دکمه ای" ,"گوشی ضد آب" ,"گوشی مناسب عکاسی", "گوشی میان رده","گوشی دانش آموزی","گوشی پرچمدار" ,"گوشی دو سیمکارت"]
+  },
+   {
+    "id":5,
+    "col" : 2,
+    "title":"گوشی براساس حافظه داخلی",
+    "name":["گوشی 64 بیت","گوشی 128 بیت","گوشی 256 گیگابایت","گوشی 512 گیگابایت","گوشی یک ترابایت"]
+  },
+   {
+    "id":6,
+    "col" : 2,
+    "title":"رزولوشن عکس",
+    "name":["گوشی با دوربین 48  مگاپیکسل" ,"گوشی با دوربین 50 مگاپیکسل" ,"گوشی با دوربین 64 مگاپیکسل" ,"گوشی با دوربین 108 مگاپیکسل"]
+  },
+   {
+    "id":7,
+    "col" : 2,
+    "title":"لوازم جانبی موبایل",
+    "name":["شارژر گوشی","شارژر وایرلس","شارژر تایپ سی","کابل شارژ تایپ سی","قاب گوشی","گلس گوشی","شارژر فندکی","هولدر گوشی موبایل" ,"کابل شارژ و مبدل" ,"پاوربانک (شارژر همراه)","پاور استیشن","مونوپاد","کاور ایرپاد" ,"هولدر گردنی" ,"فن خنک کننده گوشی","دسته بازی موبایل"]
+  },
+   {
+    "id":8,
+    "col" : 3,
+    "title":"قاب گوشی",
+    "name":["قاب گوشی سامسونگ","قاب گوشی آیفون" ,"قاب گوشی ریلمی" ,"قاب گوشی پوکو" ," قاب گوشی وکال"]
+  },
+   {
+    "id":9,
+    "col" : 3,
+    "title":"هدفون",
+    "name":["هدفون بی سیم","هدفون گیمینگ" ,"هدفون اپل (ایرپاد)" ,"هدفون بیتس" ,"هدفون سونی" ,"هدفون سامسونگ (ایربادز) ","هدفون شیائومی" ,"هدفون جی بی ال" ,"هدفون انکر" ,"هندزفری تایپ سی"]
+  },
+   {
+    "id":10,
+    "col" : 3,
+    "title":"ساعت و مچ بند هوشمند",
+    "name":["ساعت هوشمند سامسونگ","ساعت هوشمند شیائومی"]
+  },
+   {
+    "id":11,
+    "col" : 3,
+    "title":"اپل واچ",
+    "name":["اپل واچ اولترا ۳","اپل واچ ۱۱" ,"اپل واچ ۱۰" ,"اپل واچ SE"]
+  },
+   {
+    "id":12,
+    "col" : 4,
+    "title":"داغ ترین‌ها",
+    "name":["آیفون ۱۷","گوشی S25 سامسونگ","شیائومی نوت ۱۴","ردمی نوت ۱۴ پرو","ردمی نوت ۱۴ پرو پلاس","گوشی سامسونگ سری s","گوشی سامسونگ سری a","گوشی سامسونگ سری m","داریا باند 5G","شیائومی 15t","پوکو x7 پرو","گلکسی A26","گلکسی A56","شارژر آیفون ۱۷","گلکسی S25 FE","پوکو f7 پرو","","","",""]
+  }
+],
+"Story":[
+  {
+    "id": 1,
+    "img": "/assets/images/Story/img-1.jpg",
+    "title":"ساخت میز سیمانی این..."
+  },
+    {
+    "id" : 2,
+    "img": "/assets/images/Story/img-2.jpg",
+    "title":"نگهدارنده آب نیچرهای..."
+  },
+    {
+    "id" : 3,
+    "img": "/assets/images/Story/img-3.jpg",
+    "title":"رژ لب های جامد کالیس..."
+  },
+    {
+    "id" : 4,
+    "img": "/assets/images/Story/img-4.jpg",
+    "title":"پد پنبه ای یونی لد"
+  },
+    {
+    "id" : 5,
+    "img": "/assets/images/Story/img-5.jpg",
+    "title":"ساخت نیمکت چوب و سیم..."
+  },
+    {
+    "id" : 6,
+    "img": "/assets/images/Story/img-6.jpg",
+    "title":"آقااااا نخر"
+  },
+    {
+    "id" : 7,
+    "img": "/assets/images/Story/img-7.jpg",
+    "title":"یه سشوار حرفه ای"
+  },
+    {
+    "id" : 8,
+    "img": "/assets/images/Story/img-8.jpg",
+    "title":"هایلایتر های برند لا..."
+  },
+    {
+    "id" : 9,
+    "img": "/assets/images/Story/img-9.jpg",
+    "title":"مطمئن ترین تولید محت..."
+  },
+    {
+    "id" : 10,
+    "img": "/assets/images/Story/img-10.jpg",
+    "title":"Yelangu MAG5 به مگ‌س..."
+  },
+    {
+    "id" : 11,
+    "img": "/assets/images/Story/img-11.jpg",
+    "title":"نجات پوست خشک"
+  },
+    {
+    "id" : 12,
+    "img": "/assets/images/Story/img-12.jpg",
+    "title":"ابزارهای وی‌تولز"
+  },  {
+    "id" : 13,
+    "img": "/assets/images/Story/img-13.jpg",
+    "title":"تبلت چویی Hi10 Max"
+  },
+    {
+    "id" : 14,
+    "img": "/assets/images/Story/img-14.jpg",
+    "title":"گیره بسیار کوچک!"
+  },
+    {
+    "id" : 15,
+    "img": "/assets/images/Story/img-15.jpg",
+    "title":"بلت کولاک کرده!"
+  },
+    {
+    "id" : 16,
+    "img": "/assets/images/Story/img-16.jpg",
+    "title":"برند جذاب ایکیا"
+  },
+    {
+    "id" : 17,
+    "img": "/assets/images/Story/img-17.jpg",
+    "title":"بهترین نور RGB برای ..."
+  },
+    {
+    "id" :18 ,
+    "img": "/assets/images/Story/img-18.jpg",
+    "title":"ساخت چهارپایه چوبی"
+  },  {
+    "id" : 19,
+    "img": "/assets/images/Story/img-19.jpg",
+    "title":"اسباب‌بازی جدید من:)"
+  },
+    {
+    "id" :20 ,
+    "img": "/assets/images/Story/img-20.jpg",
+    "title":"لباسشویی های الجی"
+  }
+],
+"Slider":[
+  {
+    "id":1,
+    "img":"/assets/images/Slider/img-1.webp"
+  },
+   {
+    "id":2,
+    "img":"/assets/images/Slider/img-2.webp"
+  },
+   {
+    "id":3,
+    "img":"/assets/images/Slider/img-3.webp"
+  },
+   {
+    "id":4,
+    "img":"/assets/images/Slider/img-4.gif"
+  },
+   {
+    "id":5,
+    "img":"/assets/images/Slider/img-5.webp"
+  },
+   {
+    "id":6,
+    "img":"/assets/images/Slider/img-6.webp"
+  },
+   {
+    "id":7,
+    "img":"/assets/images/Slider/img-7.webp"
+  },
+   {
+    "id":8,
+    "img":"/assets/images/Slider/img-8.webp"
+  },
+   {
+    "id":9,
+    "img":"/assets/images/Slider/img-9.webp"
+  },
+   {
+    "id":10,
+    "img":"/assets/images/Slider/img-10.webp"
+  },
+   {
+    "id":11,
+    "img":"/assets/images/Slider/img-11.webp"
+  },
+   {
+    "id":12,
+    "img":"/assets/images/Slider/img-12.webp"
+  },
+  {
+    "id":13,
+    "img":"/assets/images/Slider/img-13.webp"
+  },
+   {
+    "id":14,
+    "img":"/assets/images/Slider/img-14.webp"
+  }
+],
+"Items":[
+  {
+    "id":1,
+    "img":"/assets/images/Item/img-1.png",
+    "title":"سوپرمارکت"
+  },
+  {
+    "id":2,
+    "img":"/assets/images/Item/img-2.png",
+    "title":"طلای دیجیتال"
+  },
+  {
+    "id":3,
+    "img":"/assets/images/Item/img-3.jpg",
+    "title":"تناسب اندام"
+  },
+  {
+    "id":4,
+    "img":"/assets/images/Item/img-4.jpg",
+    "title":"ابزارآلات تخصصی"
+  },
+  {
+    "id":5,
+    "img":"/assets/images/Item/img-5.png",
+    "title":"تخفیف ساعت"
+  },{
+    "id":6,
+    "img":"/assets/images/Item/img-6.jpg",
+    "title":"تمیزی خونه"
+  },
+  {
+    "id":7,
+    "img":"/assets/images/Item/img-7.png",
+    "title":"ارسال فوری نان تازه"
+  },
+  {
+    "id":8,
+    "img":"/assets/images/Item/img-8.png",
+    "title":"اشتراک پلاس"
+  },
+  {
+    "id":9,
+    "img":"/assets/images/Item/img-9.png",
+    "title":"انتخاب هوشمند"
+  }
+],
+"Incredibels":[
+{
+  "id":1,
+  "img":"/assets/images/Incredibles/img-2.webp",
+  "title":"لپ تاپ 15.6 اینچی ایسر مدل Extensa 15 EX215-57-51XH-i5 13420H-16GB DDR5 4800Hz-512GB SSD-IPS",
+  "percent":"۲۰%",
+  "sale":"۶۶,۸۹۹,۰۰۰",
+  "price":"۸۳,۴۲۰,۲۰۰"
+},
+{
+  "id":2,
+  "img":"/assets/images/Incredibles/img-3.webp",
+  "title":"لپ تاپ 15.6 اینچی ایسوس مدل Vivobook 15 F1504VA-NJ1213-Core i3 1315U-4GB DDR4 3200MHz-256GB SSD",
+  "percent":"۱۱%",
+  "sale":"۴۶,۲۹۹,۰۰۰",
+  "price":"۵۱,۸۸۴,۸۰۰"
+},
+{
+  "id":3,
+  "img":"/assets/images/Incredibles/img-4.webp",
+  "title":"لپ تاپ 15.6 اینچی ایسوس مدل Vivobook Go 15 E1504FA-NJ009-R5 7520U-8GB LPDDR5-512GB SSD-TFT",
+  "percent":"۱۰%",
+  "sale":"۵۳,۲۹۹,۰۰۰",
+  "price":"۵۹,۲۷۴,۶۰۰"
+},
+{
+  "id":4,
+  "img":"/assets/images/Incredibles/img-5.webp",
+  "title":"لپ تاپ 15.6 اینچی اچ‌ پی مدل Victus 15 Gaming fa2082wm-i5 13420H-16GB DDR4 3200MHz-512GB SSD-RTX4050 6GB-FHD 144Hz-W",
+  "percent":"۹%",
+  "sale":"۱۰۴,۸۹۹,۰۰۰",
+  "price":"۱۱۵,۶۰۴,۶۰۰"
+},
+{
+  "id":5,
+  "img":"/assets/images/Incredibles/img-6.webp",
+  "title":"یخچال فریزر خودرو ایستکول مدل TM-4040-DC",
+  "percent":"۲۵%",
+  "sale":"۳۰,۹۰۰,۰۰۰",
+  "price":"۴۱,۲۳۲,۰۰۰"
+},
+{
+  "id":6,
+  "img":"/assets/images/Incredibles/img-7.webp",
+  "title":"واکس داشبورد خودرو کاتیون ماکائو مدل CM-151 حجم 150 میلی لیتر",
+  "percent":"۳۶%",
+  "sale":"۱۱۵,۰۰۰",
+  "price":"۱۸۰,۰۰۰"
+},
+{
+  "id":7,
+  "img":"/assets/images/Incredibles/img-8.webp",
+  "title":"شامپو بدنه خودرو نانو براق کننده و تمیز کننده نکسوس مدل N155 حجم 1.5 لیتر ",
+  "percent":"۱۳%",
+  "sale":"۱۴۳,۵۵۰",
+  "price":"۱۶۵,۰۰۰"
+},
+{
+  "id":8,
+  "img":"/assets/images/Incredibles/img-9.webp",
+  "title":"تی‌شرت آستین کوتاه مردانه لیکک مدل 1101-2",
+  "percent":"۲۰%",
+  "sale":"۳۹۹,۲۰۰",
+  "price":"۴۹۹,۰۰۰"
+},
+{
+  "id":9,
+  "img":"/assets/images/Incredibles/img-10.webp",
+  "title":"پایه نگهدارنده گوشی موبایل و تبلت هیسکا مدل HK-2014",
+  "percent":"۳۴%",
+  "sale":"۷۶۹,۰۰۰",
+  "price":"۱,۱۶۹,۰۰۰"
+},
+{
+  "id":10,
+  "img":"/assets/images/Incredibles/img-11.webp",
+  "title":"پاوربانک 22.5 وات ونشن مدل FHOB0 ظرفیت 10000 میلی آمپر ساعت",
+  "percent":"۴۵%",
+  "sale":"۱,۲۴۹,۰۰۰",
+  "price":"۲,۲۶۱,۵۰۰"
+},
+{
+  "id":11,
+  "img":"/assets/images/Incredibles/img-12.webp",
+  "title":"پاوربانک ای دیتا مدل C100 ظرفیت 10000 میلی آمپر ساعت",
+  "percent":"۳۴%",
+  "sale":"۱,۹۹۹,۰۰۰",
+  "price":"۳,۰۴۴,۲۰۰"
+}
+],
+"Pic":[
+  {
+    "id":1,
+    "img":"/assets/images/Pic/img-1.webp"
+  },
+    {
+    "id":2,
+    "img":"/assets/images/Pic/img-2.webp"
+  },
+    {
+    "id":3,
+    "img":"/assets/images/Pic/img-3.webp"
+  },
+    {
+    "id":4,
+    "img":"/assets/images/Pic/img-4.webp"
+  }
+],
+"Discount":[
+  {
+    "id":1,
+    "img":"/assets/images/Discount/img-1.webp",
+    "percent":"۴۰%"
+  },
+   {
+    "id":2,
+    "img":"/assets/images/Discount/img-2.webp",
+    "percent":"۴۰%"
+  },
+   {
+    "id":3,
+    "img":"/assets/images/Discount/img-3.webp",
+    "percent":"۳۵%"
+  },
+   {
+    "id":4,
+    "img":"/assets/images/Discount/img-4.webp",
+    "percent":"۳۰%"
+  },
+   {
+    "id":5,
+    "img":"/assets/images/Discount/img-5.webp",
+    "percent":"۳۰%"
+  },
+   {
+    "id":6,
+    "img":"/assets/images/Discount/img-6.webp",
+    "percent":"۳۰%"
+  }
+],
+"Picture":[
+   {
+    "id":1,
+    "img":"/assets/images/Picture/img-1.webp"
+  },
+   {
+    "id":2,
+    "img":"/assets/images/Picture/img-2.webp"
+  },
+   {
+    "id":3,
+    "img":"/assets/images/Picture/img-3.webp"
+  },
+   {
+    "id":4,
+    "img":"/assets/images/Picture/img-4.gif"
+  }
+],
+"Category":[
+  {
+    "id":1,
+    "img":"/assets/images/Category/img-1.jpg",
+    "title":"موبایل"
+  },
+    {
+    "id":2,
+    "img":"/assets/images/Category/img-2.jpg",
+    "title":"سلامت و پزشکی"
+  },
+    {
+    "id":3,
+    "img":"/assets/images/Category/img-3.jpg",
+    "title":"لپ تاپ"
+  },
+    {
+    "id":4,
+    "img":"/assets/images/Category/img-4.jpg",
+    "title":"ابزارآلات و تجهیزات"
+  },
+    {
+    "id":5,
+    "img":"/assets/images/Category/img-5.jpg",
+    "title":"کالای دیجیتال"
+  },
+    {
+    "id":6,
+    "img":"/assets/images/Category/img-6.jpg",
+    "title":"کتاب و هنر"
+  },
+    {
+    "id":7,
+    "img":"/assets/images/Category/img-7.jpg",
+    "title":"خانه و آشپزخانه"
+  },
+    {
+    "id":8,
+    "img":"/assets/images/Category/img-8.jpg",
+    "title":"ورزش و سفر"
+  },
+    {
+    "id":9,
+    "img":"/assets/images/Category/img-9.jpg",
+    "title":"لوازم خانگی و برقی"
+  },
+    {
+    "id":10,
+    "img":"/assets/images/Category/img-10.jpg",
+    "title":"کارت هدیه و گیفت کارت"
+  },
+    {
+    "id":11,
+    "img":"/assets/images/Category/img-11.jpg",
+    "title":"آرایشی و بهداشتی"
+  },
+    {
+    "id":12,
+    "img":"/assets/images/Category/img-12.jpg",
+    "title":"سوپر مارکت آنلاین"
+  },
+
+    {
+    "id":13,
+    "img":"/assets/images/Category/img-13.jpg",
+    "title":"مد و پوشاک"
+  },  
+  {
+    "id":14,
+    "img":"/assets/images/Category/img-14.jpg",
+    "title":"اسباب بازی، کودک و نوزاد"
+  },
+    {
+    "id":15,
+    "img":"/assets/images/Category/img-15.jpg",
+    "title":"طلا و نقره"
+  },
+    {
+    "id":16,
+    "img":"/assets/images/Category/img-16.jpg",
+    "title":"محصولات بومی و محلی"
+  },
+    {
+    "id":17,
+    "img":"/assets/images/Category/img-17.jpg",
+    "title":"خودرو و موتورسیکلت"
+  },
+    {
+    "id":18,
+    "img":"/assets/images/Category/img-18.jpg",
+    "title":"پت شاپ"
+  }
+
+],
+"Favorite":[
+  {
+    "id":1,
+    "img":"/assets/images/Favorite/img-1.png"
+  },
+  {
+    "id":2,
+    "img":"/assets/images/Favorite/img-2.png"
+  },
+  {
+    "id":3,
+    "img":"/assets/images/Favorite/img-3.jpg"
+  },
+  {
+    "id":4,
+    "img":"/assets/images/Favorite/img-4.jpg"
+  },
+  {
+    "id":5,
+    "img":"/assets/images/Favorite/img-5.jpg"
+  },
+  {
+    "id":6,
+    "img":"/assets/images/Favorite/img-6.png"
+  },
+  {
+    "id":7,
+    "img":"/assets/images/Favorite/img-7.jpg"
+  },
+  {
+    "id":8,
+    "img":"/assets/images/Favorite/img-8.jpg"
+  },
+  {
+    "id":9,
+    "img":"/assets/images/Favorite/img-9.jpg"
+  },
+  {
+    "id":10,
+    "img":"/assets/images/Favorite/img-10.jpg"
+  },
+  {
+    "id":11,
+    "img":"/assets/images/Favorite/img-11.jpg"
+  },
+  {
+    "id":12,
+    "img":"/assets/images/Favorite/img-12.png"
+  },
+  {
+    "id":13,
+    "img":"/assets/images/Favorite/img-13.png"
+  },
+  {
+    "id":14,
+    "img":"/assets/images/Favorite/img-14.png"
+  },
+  {
+    "id":15,
+    "img":"/assets/images/Favorite/img-15.jpg"
+  },
+  {
+    "id":16,
+    "img":"/assets/images/Favorite/img-16.png"
+  },
+  {
+    "id":17,
+    "img":"/assets/images/Favorite/img-17.jpg"
+  },
+  {
+    "id":18,
+    "img":"/assets/images/Favorite/img-18.jpg"
+  },
+  {
+    "id":19,
+    "img":"/assets/images/Favorite/img-19.jpg"
+  },
+  {
+    "id":20,
+    "img":"/assets/images/Favorite/img-20.png"
+  },
+  {
+    "id":21,
+    "img":"/assets/images/Favorite/img-21.jpg"
+  }
+],
+"Products1":[
+{
+  "id":1,
+  "img1":"/assets/images/Products/Products1/img-1.webp",
+  "img2":"/assets/images/Products/Products1/img-2.webp"
+}
+],
+"Products2":[
+{
+  "id":1,
+  "img1":"/assets/images/Products/Products2/img1.webp",
+  "img2":"/assets/images/Products/Products2/img2.webp"
+}
+],
+"FCategory1":[
+  {
+    "id":1,
+    "title":"جوراب مردانه",
+    "img1":"/assets/images/FCategory/FCategory1/img1.jpg",
+    "img2":"/assets/images/FCategory/FCategory1/img2.jpg",
+    "img3":"/assets/images/FCategory/FCategory1/img3.jpg",
+    "img4":"/assets/images/FCategory/FCategory1/img4.jpg"
+  },
+    {
+    "id":2,
+    "title":"لپ تاپ و الترابوک",
+    "img1":"/assets/images/FCategory/FCategory1/img5.jpg",
+    "img2":"/assets/images/FCategory/FCategory1/img6.jpg",
+    "img3":"/assets/images/FCategory/FCategory1/img7.jpg",
+    "img4":"/assets/images/FCategory/FCategory1/img8.jpg"
+  },
+    {
+    "id":3,
+    "title":"سایر لوازم خودرو",
+    "img1":"/assets/images/FCategory/FCategory1/img9.jpg",
+    "img2":"/assets/images/FCategory/FCategory1/img10.jpg",
+    "img3":"/assets/images/FCategory/FCategory1/img11.jpg",
+    "img4":"/assets/images/FCategory/FCategory1/img12.jpg"
+  },
+    {
+    "id":4,
+    "title":"واکس، پولیش و تمیزکننده خودرو",
+    "img1":"/assets/images/FCategory/FCategory1/img13.jpg",
+    "img2":"/assets/images/FCategory/FCategory1/img14.jpg",
+    "img3":"/assets/images/FCategory/FCategory1/img15.jpg",
+    "img4":"/assets/images/FCategory/FCategory1/img16.jpg"
+  }
+],
+"FCategory2":[
+  {
+    "id":1,
+    "title":"تی شرت مردانه",
+    "img1":"/assets/images/FCategory/FCategory2/img1.jpg",
+    "img2":"/assets/images/FCategory/FCategory2/img2.jpg",
+    "img3":"/assets/images/FCategory/FCategory2/img3.jpg",
+    "img4":"/assets/images/FCategory/FCategory2/img4.jpg"
+  },
+    {
+    "id":2,
+    "title":"جوراب زنانه",
+    "img1":"/assets/images/FCategory/FCategory2/img5.jpg",
+    "img2":"/assets/images/FCategory/FCategory2/img6.jpg",
+    "img3":"/assets/images/FCategory/FCategory2/img7.jpg",
+    "img4":"/assets/images/FCategory/FCategory2/img8.jpg"
+  },
+    {
+    "id":3,
+    "title":"پایه نگهدارنده گوشی و تبلت",
+    "img1":"/assets/images/FCategory/FCategory2/img9.jpg",
+    "img2":"/assets/images/FCategory/FCategory2/img10.jpg",
+    "img3":"/assets/images/FCategory/FCategory2/img11.jpg",
+    "img4":"/assets/images/FCategory/FCategory2/img12.jpg"
+  },
+    {
+    "id":4,
+    "title":"بازی آموزشی",
+    "img1":"/assets/images/FCategory/FCategory2/img13.jpg",
+    "img2":"/assets/images/FCategory/FCategory2/img14.jpg",
+    "img3":"/assets/images/FCategory/FCategory2/img15.jpg",
+    "img4":"/assets/images/FCategory/FCategory2/img16.jpg"
+  }
+],
+"Sell1":[
+  {
+    "id":1,
+    "img":"/assets/images/Sell/Sell1/img1.webp",
+    "title":"کارت هدیه الکترونیکی دیجی کالا طرح طلای الکترونیک"
+  },
+  {
+    "id":2,
+    "img":"/assets/images/Sell/Sell1/img2.webp",
+    "title":"ماشین اصلاح موی سر و صورت موزر مدل 0050-1400"
+  },
+  {
+    "id":3,
+    "img":"/assets/images/Sell/Sell1/img3.webp",
+    "title":"پودر ماشین لباسشویی اکتیو مدل Poly Wash مقدار 500 گرم"
+  },
+  {
+    "id":4,
+    "img":"/assets/images/Sell/Sell1/img4.webp",
+    "title":"خامه فرادما پگاه مقدار 200 میلی لیتر"
+  },
+  {
+    "id":5,
+    "img":"/assets/images/Sell/Sell1/img5.webp",
+    "title":"پودر لباسشویی دستی گلرنگ - 500 گرم "
+  },
+  {
+    "id":6,
+    "img":"/assets/images/Sell/Sell1/img6.webp",
+    "title":"پودر ماشین لباسشویی سافتلن سری Gold Selection مدل Perfect And Shine مقدار 500 گرم"
+  },
+  {
+    "id":7,
+    "img":"/assets/images/Sell/Sell1/img7.webp",
+    "title":"پودر رختشویی دستی سافتلن مقدار 500 گرم"
+  },
+  {
+    "id":8,
+    "img":"/assets/images/Sell/Sell1/img8.webp",
+    "title":"خامه هراز - 200 میلی لیتر "
+  },
+  {
+    "id":9,
+    "img":"/assets/images/Sell/Sell1/img9.webp",
+    "title":"لامپ ال ای دی 12 وات بوم لایتینگ مدل حبابی پایه E27 بسته 2 عددی "
+  },
+  {
+    "id":10,
+    "img":"/assets/images/Sell/Sell1/img10.webp",
+    "title":"هدفون بلوتوثی کیو سی وای مدل T13 ANC 2"
+  },
+  {
+    "id":11,
+    "img":"/assets/images/Sell/Sell1/img11.webp",
+    "title":"گوشی موبایل شیائومی مدل Redmi Note 14 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت"
+  },
+  {
+    "id":12,
+    "img":"/assets/images/Sell/Sell1/img12.webp",
+    "title":"دوغ گازدار تخمیری پگاه مقدار 2 لیتر"
+  },
+  {
+    "id":13,
+    "img":"/assets/images/Sell/Sell1/img13.webp",
+    "title":"کپسول ژلاتینی نرم ویتامین ای 400 آپوویتال بسته 40 عددی"
+  },
+  {
+    "id":14,
+    "img":"/assets/images/Sell/Sell1/img14.webp",
+    "title":"کنسرو ماهی تن در روغن گالکسی - 180 گرم"
+  },
+  {
+    "id":15,
+    "img":"/assets/images/Sell/Sell1/img15.webp",
+    "title":"چای شکسته هلی ممتاز سوفیا - 450 گرم"
+  },
+  {
+    "id":16,
+    "img":"/assets/images/Sell/Sell1/img16.webp",
+    "title":"قرص مولتی ویتامین کامپلیت یورو ویتال بسته 30 عددی"
+  },
+  {
+    "id":17,
+    "img":"/assets/images/Sell/Sell1/img17.webp",
+    "title":"شیر پر چرب هراز حجم 1 لیتر"
+  },
+  {
+    "id":18,
+    "img":"/assets/images/Sell/Sell1/img18.webp",
+    "title":"مایع دستشویی اکتیو مدل Moonlight Path وزن 3750 گرم "
+  }
+],
+"Sell2":[
+  {
+    "id":1,
+    "img":"/assets/images/Sell/Sell2/img1.webp",
+    "title":"سشوار حرفه ای لیز مدل EXTREME، موتور AC با توان مصرفی 2400 وات، دارای قابلیت باد سرد، فناوری تولید یون، دارای حلقه آویختن، وزن 480 گرم، تنظیم حرارت 2 حالته، کنترل سرعت 2 حالته، 2 عدد سری متمرکزکننده"
+  },
+  {
+    "id":2,
+    "img":"/assets/images/Sell/Sell2/img2.webp",
+    "title":"برس حرارتی مکس مدل 8000"
+  },
+  {
+    "id":3,
+    "img":"/assets/images/Sell/Sell2/img3.webp",
+    "title":"ماشین لباسشویی 6 کیلوگرم اتوماتیک ایکس ویژن مدل TE62-AW/AS"
+  },
+  {
+    "id":4,
+    "img":"/assets/images/Sell/Sell2/img4.webp",
+    "title":"هارد اکسترنال ای دیتا مدل HD710 Pro ظرفیت دو ترابایت دارای رابط USB Type-A 3.0"
+  },
+  {
+    "id":5,
+    "img":"/assets/images/Sell/Sell2/img5.webp",
+    "title":"سرم لایه بردار ویتالیر مدل AHA30% حجم 30 میلی لیتر"
+  },
+  {
+    "id":6,
+    "img":"/assets/images/Sell/Sell2/img6.webp",
+    "title":"اکتان بوستر کاسپین مدل 300 حجم 300 میلی لیتر"
+  },
+  {
+    "id":7,
+    "img":"/assets/images/Sell/Sell2/img7.webp",
+    "title":"جارو رباتیک شیائومی مدل H40"
+  },
+  {
+    "id":8,
+    "img":"/assets/images/Sell/Sell2/img8.webp",
+    "title":"تمیزکننده کامل سیستم سوخت کاسپین حجم 400 میلی لیتر"
+  },
+  {
+    "id":9,
+    "img":"/assets/images/Sell/Sell2/img9.webp",
+    "title":"کرم ضدآفتاب بی‌رنگ سان‌سیف SPF50 مدل ACNE-FLUID مناسب پوست مختلط، حجم 50 میلی‌لیتر"
+  },
+  {
+    "id":10,
+    "img":"/assets/images/Sell/Sell2/img10.webp",
+    "title":"کیسه زباله هیوا مدل اقتصادی 1400 بسته 54 عددی"
+  },
+  {
+    "id":11,
+    "img":"/assets/images/Sell/Sell2/img11.webp",
+    "title":"کیف دوشی زنانه مدل g410"
+  },
+  {
+    "id":12,
+    "img":"/assets/images/Sell/Sell2/img12.webp",
+    "title":"ماساژور برقی مدل پروانه ای کد ems"
+  },
+  {
+    "id":13,
+    "img":"/assets/images/Sell/Sell2/img13.webp",
+    "title":"دستگاه بخور سرد صورت مدل L-2"
+  },
+  {
+    "id":14,
+    "img":"/assets/images/Sell/Sell2/img14.webp",
+    "title":"ماگ ایکیا مدل FÄRGKLAR کد 604.794.37"
+  },
+  {
+    "id":15,
+    "img":"/assets/images/Sell/Sell2/img15.webp",
+    "title":"پخش کننده خودرو کلارو مدل CL-6301"
+  }
+],
+"Sale":[
+  {
+    "id":1,
+    "img":"/assets/images/Sale/img1.webp",
+    "discount":"۶۹%",
+    "price":"۴۲۹,۰۰۰",
+    "oldPrice":"۱,۳۸۹,۰۰۰"
+  },
+  {
+    "id":2,
+    "img":"/assets/images/Sale/img2.webp",
+    "discount":"۶۹%",
+    "price":"۴۲۹,۰۰۰",
+    "oldPrice":"۱,۳۸۹,۰۰۰"
+  },
+  {
+    "id":3,
+    "img":"/assets/images/Sale/img3.webp",
+    "discount":"۶۹%",
+    "price":"۴۲۹,۰۰۰",
+    "oldPrice":"۱,۳۸۹,۰۰۰"
+  },
+  {
+    "id":4,
+    "img":"/assets/images/Sale/img4.webp",
+    "discount":"۶۹%",
+    "price":"۴۲۹,۰۰۰",
+    "oldPrice":"۱,۳۸۹,۰۰۰"
+  },
+  {
+    "id":5,
+    "img":"/assets/images/Sale/img5.webp",
+    "discount":"۱۳%",
+    "price":"۱۴۴,۹۰۰,۰۰۰",
+    "oldPrice":"۱۶۷,۰۰۰,۰۰۰"
+  },
+  {
+    "id":6,
+    "img":"/assets/images/Sale/img6.webp",
+    "discount":"۱۳%",
+    "price":"۱۰۳,۵۰۰,۰۰۰",
+    "oldPrice":"۱۱۹,۰۰۰,۰۰۰"
+  },
+  {
+    "id":7,
+    "img":"/assets/images/Sale/img7.webp",
+    "discount":"۱۳%",
+    "price":"۱۸۵,۰۰۰,۰۰۰",
+    "oldPrice":"۲۱۲,۰۰۰,۰۰۰"
+  },
+  {
+    "id":8,
+    "img":"/assets/images/Sale/img8.webp",
+    "discount":"۱۲%",
+    "price":"۱۶۴,۸۰۰,۰۰۰",
+    "oldPrice":"۱۸۸,۰۰۰,۰۰۰"
+  },
+  {
+    "id":9,
+    "img":"/assets/images/Sale/img9.webp",
+    "discount":"۹۰%",
+    "price":"۴۴۸,۰۰۰",
+    "oldPrice":"۴,۲۹۰,۰۰۰"
+  },
+  {
+    "id":10,
+    "img":"/assets/images/Sale/img10.webp",
+    "discount":"۸۹%",
+    "price":"۳۹۹,۵۰۰",
+    "oldPrice":"۳,۷۵۵,۰۰۰"
+  },
+  {
+    "id":11,
+    "img":"/assets/images/Sale/img11.webp",
+    "discount":"۸۹%",
+    "price":"۳۹۸,۰۰۰",
+    "oldPrice":"۳,۵۰۰,۰۰۰"
+  },
+  {
+    "id":12,
+    "img":"/assets/images/Sale/img12.webp",
+    "discount":"۸۹%",
+    "price":"۷۴۰,۵۰۰",
+    "oldPrice":"۶,۵۰۰,۰۰۰"
+  },
+  {
+    "id":13,
+    "img":"/assets/images/Sale/img13.webp",
+    "discount":"۵۵%",
+    "price":"۳۱۵,۰۰۰",
+    "oldPrice":"۷۰۰,۰۰۰"
+  },
+  {
+    "id":14,
+    "img":"/assets/images/Sale/img14.webp",
+    "discount":"۵۵%",
+    "price":"۳۱۵,۰۰۰",
+    "oldPrice":"۷۰۰,۰۰۰"
+  },
+  {
+    "id":15,
+    "img":"/assets/images/Sale/img15.webp",
+    "discount":"۵۵%",
+    "price":"۳۱۵,۰۰۰",
+    "oldPrice":"۷۰۰,۰۰۰"
+  },
+  {
+    "id":16,
+    "img":"/assets/images/Sale/img16.webp",
+    "discount":"۵۵%",
+    "price":"۳۱۵,۰۰۰",
+    "oldPrice":"۷۰۰,۰۰۰"
+  },
+  {
+    "id":17,
+    "img":"/assets/images/Sale/img17.webp",
+    "discount":"۷۰%",
+    "price":"۱,۴۶۶,۷۰۰",
+    "oldPrice":"۴,۸۸۹,۰۰۰"
+  },
+  {
+    "id":18,
+    "img":"/assets/images/Sale/img18.webp",
+    "discount":"۶۸%",
+    "price":"۴۴۸,۰۰۰",
+    "oldPrice":"۱,۴۰۰,۰۰۰"
+  }
+],
+"Read":[
+  {
+    "id":1,
+    "img":"/assets/images/Read/img1.webp",
+    "title":"آخر هفته فیلم و سریال چی ببینیم؟ (هفته دوم بهمن ۱۴۰۴)"
+  },
+    {
+    "id":2,
+    "img":"/assets/images/Read/img2.webp",
+    "title":"تبلیغات متنی به انتهای پاسخ‌های ChatGPT اضافه شد"
+  },
+    {
+    "id":3,
+    "img":"/assets/images/Read/img3.webp",
+    "title":"ببینید؛ فیلم کوتاه رزیدنت ایول ۹ با مایکا مونرو به راکون‌سیتی زامبی‌زده می‌رود"
+  },
+    {
+    "id":4,
+    "img":"/assets/images/Read/img4.webp",
+    "title":"بهترین وسیله برای اصلاح صورت نوجوانان دختر"
+  }
+],
+"FTop":[
+  {
+    "id":1,
+    "img":"/assets/images/Footer/top/img1.svg",
+    "title":"اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس"
+  },
+   {
+    "id":2,
+    "img":"/assets/images/Footer/top/img2.svg",
+    "title":"امکان پرداخت در محل"
+  },
+   {
+    "id":3,
+    "img":"/assets/images/Footer/top/img3.svg",
+    "title":"۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
+  },
+   {
+    "id":4,
+    "img":"/assets/images/Footer/top/img4.svg",
+    "title":"هفت روز ضمانت بازگشت کالا"
+  },
+   {
+    "id":5,
+    "img":"/assets/images/Footer/top/img5.svg",
+    "title":"ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
+  }
+],
+"FRight":[
+    {
+    "id":1,
+    "title":"ویژگی های مهم دیجی کالا",
+     "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":2,
+    "title":"ارسال سریع و مطمئن کالا",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":3,
+    "title":"تخفیف های ویژه و جشنواره ها",
+   "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":4,
+    "title":"انواع محصولات فروشگاه دیجی کالا",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":5,
+    "title":"موبایل و کالای دیجیتال",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":6,
+    "title":"کتاب و لوازم تحریر",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":7,
+    "title":"لوازم آرایشی و بهداشتی",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":8,
+    "title":"خرید آنلاین طلا و جواهرات",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":9,
+    "title":"اسباب بازی",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":10,
+    "title":"لوازم خانگی و مبلمان",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":11,
+    "title":"سوپرمارکت دیجی کالا",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":12,
+    "title":"محصولات بومی و محلی",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":13,
+    "title":"ابزار آلات و تجهیزات",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":14,
+    "title":"پوشاک",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+    {
+    "id":15,
+    "title":"تجهیزات پزشکی و سلامت",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+  {
+    "id":16,
+    "title":"محصولات ورزشی و سفر",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+  {
+    "id":17,
+    "title":"کارت هدیه",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  },
+  {
+    "id":18,
+    "title":"مکمل های غذایی",
+    "description":"دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود."
+  }
+],
+"FLeft":[
+  {
+    "id":1,
+    "img":"/assets/images/Footer/second/img1.webp"
+  },
+    {
+    "id":2,
+    "img":"/assets/images/Footer/second/img2.webp"
+  },
+    {
+    "id":3,
+    "img":"/assets/images/Footer/second/img3.webp"
+  },
+    {
+    "id":4,
+    "img":"/assets/images/Footer/second/img4.png"
+  }
+],
+"FBottom":[
+   {
+    "id":1,
+    "img":"/assets/images/Footer/third/img1.svg"
+  },
+   {
+    "id":2,
+    "img":"/assets/images/Footer/third/img2.svg"
+  },
+   {
+    "id":3,
+    "img":"/assets/images/Footer/third/img3.svg"
+  },
+   {
+    "id":4,
+    "img":"/assets/images/Footer/third/img4.svg"
+  },
+   {
+    "id":5,
+    "img":"/assets/images/Footer/third/img5.svg"
+  },
+   {
+    "id":6,
+    "img":"/assets/images/Footer/third/img6.svg"
+  },
+   {
+    "id":7,
+    "img":"/assets/images/Footer/third/img7.svg"
+  },
+   {
+    "id":8,
+    "img":"/assets/images/Footer/third/img8.svg"
+  },
+   {
+    "id":9,
+    "img":"/assets/images/Footer/third/img9.svg"
+  },
+   {
+    "id":10,
+    "img":"/assets/images/Footer/third/img10.svg"
+  },
+   {
+    "id":11,
+    "img":"/assets/images/Footer/third/img11.svg"
+  },
+   {
+    "id":12,
+    "img":"/assets/images/Footer/third/img12.svg"
+  },
+   {
+    "id":13,
+    "img":"/assets/images/Footer/third/img13.svg"
+  },
+   {
+    "id":14,
+    "img":"/assets/images/Footer/third/img14.svg"
+  },
+   {
+    "id":15,
+    "img":"/assets/images/Footer/third/img15.svg"
+  },
+   {
+    "id":16,
+    "img":"/assets/images/Footer/third/img16.svg"
+  },
+   {
+    "id":17,
+    "img":"/assets/images/Footer/third/img17.svg"
+  },
+   {
+    "id":18,
+    "img":"/assets/images/Footer/third/img18.svg"
+  }
+]
+}
